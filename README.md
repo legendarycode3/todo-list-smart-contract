@@ -25,7 +25,7 @@
  2. ****Demonstrates Immutability::****
  3. ****Educational Foundation:****
  4. ****Decentralized Data Management:****
- 5. ****CRUD Operations Mastery:****
+ 5. ****CRUD Operations Mastery:**** It shows how to Create tasks, Read them, Update
  6. ****Interaction with Blockchain:****
  
  
