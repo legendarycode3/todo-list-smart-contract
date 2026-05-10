@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## 📌 Features
-* ****Immutability:****
+* ****Immutability:**** Once deployed, the code cannot be altered, ensuring the rules of the
 
 ## 🧠 Key Concepts Applied
 
