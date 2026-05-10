@@ -19,7 +19,9 @@
 ## Usage Guide (How to use - When using Remix IDE)
 
 ## Why This Matters (TodoList Smart Contract)
- They matter because they demonstrate how to manage data storage, read/write actions, and state changes directly on the blockchain without a central server.
+ They matter because they demonstrate how to manage data storage, read/write actions, and state changes directly on the blockchain without a central server. 
+ This key elements make them matter they include: </br>
+ 
 
 ## Security Considerations
 
