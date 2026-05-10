@@ -27,7 +27,7 @@
  4. ****Decentralized Data Management:****
  5. ****CRUD Operations Mastery:**** They show how to Create tasks, Read them, Update their status, and Delete them, which are the backbone of most applications.
  6. ****Interaction with Blockchain:****
- 7. ****State Management:****
+ 7. ****State Management:**** They adequately show how to manage the state of a task 
  
  
 
