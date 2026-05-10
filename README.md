@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## 📌 Features
-* ****Immutability:**** Once deployed, the code cannot be altered, ensuring the rules of the
+* ****Immutability:**** Once deployed, the code cannot be altered, ensuring the rules of the to-do list remain constant.
 
 ## 🧠 Key Concepts Applied
 
