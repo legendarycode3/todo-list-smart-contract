@@ -24,7 +24,8 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****`createTask`:**** 
+* ****`createTask`:****
+* ****`toggleCompleted`:****
 
 ## Usage Guide (How to use - When using Remix IDE)
 
