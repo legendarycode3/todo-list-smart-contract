@@ -23,6 +23,7 @@
  This key elements make them matter they include: </br>
  1. ****Demonstrates Immutability::****
  2. ****Educational Foundation:****
+ 3. ****Decentralized Data Management:****
  
  
 
