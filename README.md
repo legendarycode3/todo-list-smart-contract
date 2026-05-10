@@ -25,6 +25,7 @@
  2. ****Educational Foundation:****
  3. ****Decentralized Data Management:****
  4. ****Trustless Execution:****
+ 5. ****Interaction with Blockchain:****
  
  
 
