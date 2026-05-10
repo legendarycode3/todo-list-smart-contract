@@ -24,6 +24,7 @@
  1. ****Demonstrates Immutability::****
  2. ****Educational Foundation:****
  3. ****Decentralized Data Management:****
+ 4. ****Trustless Execution:****
  
  
 
