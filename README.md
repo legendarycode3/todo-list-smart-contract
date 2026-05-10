@@ -24,7 +24,7 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****`createTask`:****
+* ****`createTask`:**** Adds a new task to the blockchain, incrementing the task count.
 * ****`toggleCompleted`:**** Updates the status of a task from pending to done.
 
 ## Usage Guide (How to use - When using Remix IDE)
