@@ -26,7 +26,7 @@
  This key elements make them matter they include: </br>
  1. ****Trustless Execution:**** Users do not need to trust a centralized entity to manage their data; the code executes exactly as written.
  2. ****Demonstrates Immutability::**** Once deployed, the contract's code cannot be changed, ensuring the "trustless" nature of the application.
- 3. ****Educational Foundation:**** They provide a complete workflow for building a
+ 3. ****Educational Foundation:**** They provide a complete workflow for building a Decentralized Application (DApp), including writing Solidity code, deploying with
  4. ****Decentralized Data Management:**** They show how to store, update, and retrieve data (tasks).
  5. ****CRUD Operations Mastery:**** They show how to Create tasks, Read them, Update their status, and Delete them, which are the backbone of most applications.
  6. ****Interaction with Blockchain:****
