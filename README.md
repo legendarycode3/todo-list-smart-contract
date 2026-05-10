@@ -4,6 +4,7 @@
 
 ## 📌 Features
 * ****Immutability:**** Once deployed, the code cannot be altered, ensuring the rules of the to-do list remain constant.
+* ****Transparency:****
 
 ## 🧠 Key Concepts Applied
 
