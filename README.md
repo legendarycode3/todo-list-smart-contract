@@ -10,7 +10,7 @@
 ## 🧠 Key Concepts(Components) Applied 
 * ****Struct:**** Task Struct,  Defines the data structure of a task, typically containing `id`, `content`, (description),  `isCompleted` (boolean status) and `isDelected` (boolean status).
 * ****Mapping:**** Used as a key-value store (like a database table) to map an integer ID to a task struct for efficient retrieval, (e.g., `mapping(uint => Task) public tasks`).
-* ****State Variables:****
+* ****State Variables:**** Keeps track of the total number of tasks (taskCount) on the blockchain.
 * 
 
 ## 📂 Project Structure (Files)
