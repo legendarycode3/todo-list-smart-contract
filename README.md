@@ -24,7 +24,7 @@
 ## Why This Matters (TodoList Smart Contract)
  They matter because they demonstrate how to manage data storage, read/write actions, and state changes directly on the blockchain without a central server. 
  This key elements make them matter they include: </br>
- 1. ****Trustless Execution:**** Users do not need to trust a centralized entity to manage their
+ 1. ****Trustless Execution:**** Users do not need to trust a centralized entity to manage their data; the code executes exactly as written.
  2. ****Demonstrates Immutability::****
  3. ****Educational Foundation:****
  4. ****Decentralized Data Management:****
