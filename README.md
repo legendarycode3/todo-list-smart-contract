@@ -6,7 +6,7 @@
 * ****Immutability:**** Once deployed, the code cannot be altered, ensuring the rules of the to-do list remain constant.
 * ****Transparency:****  All tasks and state changes are visible.
 * ****Decentralization:****  No single entity controls the data, protecting it from censorship.
-* ****Events:****
+* ****Events:**** Emits an event (TaskCreated or TaskCompleted) 
 
 ## 🧠 Key Concepts(Components) Applied 
 * ****Struct:**** Task Struct,  Defines the data structure of a task, typically containing `id`, `content`, (description),  `isCompleted` (boolean status) and `isDelected` (boolean status).
