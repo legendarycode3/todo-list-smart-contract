@@ -24,6 +24,7 @@
 
 ## 📋Contract Details
 ### Functions:
+* ****`createTask`:**** 
 
 ## Usage Guide (How to use - When using Remix IDE)
 
