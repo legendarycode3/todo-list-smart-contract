@@ -6,6 +6,7 @@
 
 ## 🧠 Key Concepts Applied
 
+## 📂 Project Structure (Files)
 
 ## Foundry
 
