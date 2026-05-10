@@ -25,7 +25,7 @@
 ## 📋Contract Details
 ### Functions:
 * ****`createTask`:****
-* ****`toggleCompleted`:****
+* ****`toggleCompleted`:**** Updates the status of a task from pending to done.
 
 ## Usage Guide (How to use - When using Remix IDE)
 
