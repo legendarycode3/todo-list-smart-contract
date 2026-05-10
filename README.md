@@ -10,6 +10,7 @@
 ## 🧠 Key Concepts(Components) Applied 
 * ****Task Struct:****
 * ****Mapping:****
+* ****State Variables:****
 
 ## 📂 Project Structure (Files)
 
