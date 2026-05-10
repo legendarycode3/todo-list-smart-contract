@@ -29,7 +29,7 @@
  3. ****Educational Foundation:**** They provide a complete workflow for building a Decentralized Application (DApp), including writing Solidity code, (E.g deploying with Remix IDE, and connecting a frontend).
  4. ****Decentralized Data Management:**** They show how to store, update, and retrieve data (tasks).
  5. ****CRUD Operations Mastery:**** They show how to Create tasks, Read them, Update their status, and Delete them, which are the backbone of most applications.
- 6. ****Interaction with Blockchain:**** They demonstrate how to use mappings (like
+ 6. ****Interaction with Blockchain:**** They demonstrate how to use mappings (like hashmaps) and structs to store data efficiently.
  7. ****State Management:**** They adequately show how to manage the state of a task (e.g., TODO, DOING, DONE), ensuring data integrity.
  
  
