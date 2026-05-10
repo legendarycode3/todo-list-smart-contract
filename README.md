@@ -7,7 +7,7 @@
 * ****Transparency:****  All tasks and state changes are visible.
 * ****Decentralization:****  No single entity controls the data, protecting it from censorship.
 
-## 🧠 Key Concepts Applied
+## 🧠 Key Concepts(Components) Applied 
 
 ## 📂 Project Structure (Files)
 
