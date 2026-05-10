@@ -1,4 +1,6 @@
-# Todo List Smart Contract
+# TodoList Smart Contract
+
+## Project Overview
 
 ## Foundry
 
