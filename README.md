@@ -9,6 +9,7 @@
 
 ## 🧠 Key Concepts(Components) Applied 
 * ****Task Struct:****
+* ****Mapping:****
 
 ## 📂 Project Structure (Files)
 
