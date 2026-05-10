@@ -5,7 +5,7 @@
 ## 📌 Features
 * ****Immutability:**** Once deployed, the code cannot be altered, ensuring the rules of the to-do list remain constant.
 * ****Transparency:****  All tasks and state changes are visible.
-* ****Decentralization:****
+* ****Decentralization:****  No single entity controls the data, protecting it from censorship.
 
 ## 🧠 Key Concepts Applied
 
