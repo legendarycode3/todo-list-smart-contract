@@ -9,7 +9,7 @@
 
 ## 🧠 Key Concepts(Components) Applied 
 * ****Struct:**** Task Struct,  Defines the data structure of a task, typically containing `id`, `content`, (description),  `isCompleted` (boolean status) and `isDelected` (boolean status).
-* ****Mapping:****
+* ****Mapping:**** Used as a key-value store (like a database table) to map an integer ID to a
 * ****State Variables:****
 * 
 
