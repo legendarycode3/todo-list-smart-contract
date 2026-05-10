@@ -19,6 +19,7 @@
 ## Usage Guide (How to use - When using Remix IDE)
 
 ## Why This Matters (TodoList Smart Contract)
+ They matter because they demonstrate how to manage data storage, read/write actions, and state
 
 ## Security Considerations
 
