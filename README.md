@@ -8,6 +8,7 @@
 * ****Decentralization:****  No single entity controls the data, protecting it from censorship.
 
 ## 🧠 Key Concepts(Components) Applied 
+* ****Task Struct:****
 
 ## 📂 Project Structure (Files)
 
