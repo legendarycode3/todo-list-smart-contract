@@ -8,7 +8,7 @@
 * ****Decentralization:****  No single entity controls the data, protecting it from censorship.
 
 ## 🧠 Key Concepts(Components) Applied 
-* ****Struct:**** Task Struct,  Defines the data structure of a task, typically containing `id`, `content`
+* ****Struct:**** Task Struct,  Defines the data structure of a task, typically containing `id`, `content`, (description),  `isCompleted` (boolean status) and `isDelected` (boolean status).
 * ****Mapping:****
 * ****State Variables:****
 * 
