@@ -34,7 +34,7 @@
 * ****`deleteTask`:**** This is a function that allows users to mark a task as `deleted`. It checks if the task exists and is not already deleted, then sets the `isDeleted` property to true.
 
 ## Usage Guide (How to use - When using Remix IDE)
-1. ****Compile:****
+1. ****Compile:**** Compile the contract.
 
 ## Why This Matters (TodoList Smart Contract)
  They matter because they demonstrate how to manage data storage, read/write actions, and state changes directly on the blockchain without a central server. 
