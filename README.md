@@ -9,6 +9,7 @@
 * ****Events:**** Emits an event (TaskCreated or TaskCompleted) to notify on the offchain that the data has updated.
 * ****State Handling:**** Tasks have predefined states (isDeleted, status). Ensures data integrity with checks on task existence.
 * Task creation with a unique identifier.
+* ****Task Management:****
 
 ## 🧠 Key Concepts(Components) Applied 
 * ****Struct:**** Task Struct,  Defines the data structure of a task, typically containing `id`, `content`, (description),  `isCompleted` (boolean status) and `isDelected` (boolean status).
