@@ -10,6 +10,7 @@
 * ****State Handling:**** Tasks have predefined states (isDeleted, status). Ensures data integrity with checks on task existence.
 * Task creation with a unique identifier.
 * ****Task Management:****
+  * Create tasks with a name, description, and initial status.
 
 ## 🧠 Key Concepts(Components) Applied 
 * ****Struct:**** Task Struct,  Defines the data structure of a task, typically containing `id`, `content`, (description),  `isCompleted` (boolean status) and `isDelected` (boolean status).
