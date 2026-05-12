@@ -7,7 +7,7 @@
 * ****Transparency:****  All tasks and state changes are visible.
 * ****Decentralization:****  No single entity controls the data, protecting it from censorship.
 * ****Events:**** Emits an event (TaskCreated or TaskCompleted) to notify on the offchain that the data has updated.
-* ****State Handling:**** Tasks have predefined states (isDeleted, status).
+* ****State Handling:**** Tasks have predefined states (isDeleted, status). Ensures data integrity with checks on task existence.
 * Task creation with a unique identifier.
 
 ## 🧠 Key Concepts(Components) Applied 
