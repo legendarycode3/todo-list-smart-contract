@@ -36,6 +36,7 @@
 ## Usage Guide (How to use - When using Remix IDE)
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:**** Deploy the contract.
+3. ****Create a Task:****
 
 ## Why This Matters (TodoList Smart Contract)
  They matter because they demonstrate how to manage data storage, read/write actions, and state changes directly on the blockchain without a central server. 
