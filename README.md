@@ -52,6 +52,7 @@ code works while trying to build yours as you keep building.
         cd todo-list-smart-contract
    ```
 3. Compile the smart contract: `forge build`
+   
 
 ### Testing the contract (Using Foundry Development Kit )
 Runing all tests:
@@ -59,6 +60,9 @@ Runing all tests:
         forge test
    ```
 Runing specific test:
+   ```shell
+      forge test --mt testFunctionName
+   ```
 
 ## 📋Contract Details
 ### Functions:
