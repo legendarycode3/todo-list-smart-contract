@@ -37,6 +37,7 @@
 code works while trying to build yours as you keep building.
 
 ## Usage
+### Building the Project (Using Remix IDE):
 
 ## 📋Contract Details
 ### Functions:
