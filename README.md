@@ -20,7 +20,8 @@
   
 
 ## 📂 Project Structure (Files)
-* ****`TodoList.sol`****: The core contract implementing the ,  functions.
+* ****`TodoList.sol`****: The core contract implementing the createTask(),     function toggleCompleted(uint256 _id) public {
+(), deleteTask()  functions.
 * ****`TodoList.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## 🌐Technology Stack (Technologies Used)
