@@ -21,7 +21,7 @@
 
 ## 📂 Project Structure (Files)
 * ****`TodoList.sol`****: The core contract implementing the ,  functions.
-* ****`TodoList.t.sol`****:
+* ****`TodoList.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** -  The programming language for writing the Smart contracts.
