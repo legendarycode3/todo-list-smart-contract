@@ -47,6 +47,7 @@ code works while trying to build yours as you keep building.
     ```shell
       git clone https://github.com/legendarycode3/simplebank-smart-contract
    ```
+2. Navigate to the directory you created and cloned the file to:
 
 ## 📋Contract Details
 ### Functions:
