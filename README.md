@@ -44,6 +44,7 @@ code works while trying to build yours as you keep building.
 
 ### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
 
+
 ## 📋Contract Details
 ### Functions:
 * ****`createTask(string)`:**** Adds a new task to the blockchain, incrementing the task count.
