@@ -45,9 +45,12 @@ code works while trying to build yours as you keep building.
 ### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
 1. Clone the repository:
     ```shell
-      git clone https://github.com/legendarycode3/simplebank-smart-contract
+      git clone https://github.com/legendarycode3/todo-list-smart-contract
    ```
 2. Navigate to the directory you created and cloned the file to:
+    ```shell
+        cd todo-list-smart-contract
+   ```
 
 ## 📋Contract Details
 ### Functions:
