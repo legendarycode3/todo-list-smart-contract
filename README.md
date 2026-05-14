@@ -54,6 +54,7 @@ code works while trying to build yours as you keep building.
 3. Compile the smart contract: `forge build`
 
 ### Testing the contract (Using Foundry Development Kit )
+Runing all tests:
 
 ## 📋Contract Details
 ### Functions:
