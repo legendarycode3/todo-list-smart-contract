@@ -30,6 +30,7 @@
 ## Getting Started
 ### Prerequisites
 * Solidity Compiler, Version ^0.8.19 or higher.
+* `Remix IDE` or `Foundry Development Kit`.
 
 ## Usage
 
