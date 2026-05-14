@@ -53,6 +53,8 @@ code works while trying to build yours as you keep building.
    ```
 3. Compile the smart contract: `forge build`
 
+### Testing the contract (Using Foundry Development Kit )
+
 ## 📋Contract Details
 ### Functions:
 * ****`createTask(string)`:**** Adds a new task to the blockchain, incrementing the task count.
