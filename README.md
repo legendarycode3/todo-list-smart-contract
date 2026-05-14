@@ -20,7 +20,7 @@
   
 
 ## 📂 Project Structure (Files)
-* ****`TodoList.sol`****:
+* ****`TodoList.sol`****: The core contract implementing the ,  functions.
 * ****`TodoList.t.sol`****:
 
 ## 🌐Technology Stack (Technologies Used)
