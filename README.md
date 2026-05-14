@@ -20,6 +20,7 @@
   
 
 ## 📂 Project Structure (Files)
+* ****`TodoList.sol`****:
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** -  The programming language for writing the Smart contracts.
@@ -88,9 +89,6 @@ Runing specific test:
  7. ****State Management:**** They adequately show how to manage the state of a task (e.g., TODO, DOING, DONE), ensuring data integrity.
  
  
-
-## Security Considerations
-
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
