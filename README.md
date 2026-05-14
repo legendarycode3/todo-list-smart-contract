@@ -51,6 +51,7 @@ code works while trying to build yours as you keep building.
     ```shell
         cd todo-list-smart-contract
    ```
+3. Compile the smart contract: `forge build`
 
 ## 📋Contract Details
 ### Functions:
