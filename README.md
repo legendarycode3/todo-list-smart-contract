@@ -38,6 +38,7 @@ code works while trying to build yours as you keep building.
 
 ## Usage
 ### Building the Project (Using Remix IDE):
+1. Copy the core smart contract file code `SimpleBank.sol` to Remix IDE (a browser based IDE, for quick prototyping).
 
 ## 📋Contract Details
 ### Functions:
