@@ -55,6 +55,9 @@ code works while trying to build yours as you keep building.
 
 ### Testing the contract (Using Foundry Development Kit )
 Runing all tests:
+   ```shell
+        forge test
+   ```
 
 ## 📋Contract Details
 ### Functions:
