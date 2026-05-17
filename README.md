@@ -106,7 +106,7 @@ Runing specific test:
  * ****DAO Task Management:****
  * ****Task Management Automation:**** Automatically track, update, and verify tasks without needing a central authority.
  * ****Employee Productivity Tracking:****
- * ****Milestone-Based Payments:****
+ * ****Milestone-Based Payments:**** Smart contracts can unlock funds after specific checklist items are completed.
  
  
 ## Foundry
