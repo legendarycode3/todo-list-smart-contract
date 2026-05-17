@@ -107,6 +107,7 @@ Runing specific test:
  * ****Task Management Automation:**** Automatically track, update, and verify tasks without needing a central authority.
  * ****Employee Productivity Tracking:**** Companies can record immutable proof of completed work activities.
  * ****Milestone-Based Payments:**** Smart contracts can unlock funds after specific checklist items are completed.
+ * ****Bug Bounty Programs:****
  
  
 ## Foundry
