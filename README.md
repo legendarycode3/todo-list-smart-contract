@@ -1,7 +1,7 @@
 # TodoList Smart Contract
 
 ## Project Overview
-A To-Do List smart contract 
+A To-Do List smart contract(decentralized), that securely manages tasks on the blockchain. 
 
 ## 📌 Features
 * ****Immutability:**** Once deployed, the code cannot be altered, ensuring the rules of the to-do list remain constant.
