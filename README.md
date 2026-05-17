@@ -104,7 +104,7 @@ Runing specific test:
 ### Key Use Cases of ToDO Smart Contracts
  Here are some key usecases for To-Do List Smart Contracts in blockchain (web3)
  * ****DAO Task Management:****
- * ****Task Management Automation:****
+ * ****Task Management Automation:**** Automatically track, update, and verify tasks without needing a central authority.
  * ****Employee Productivity Tracking:****
  * ****Milestone-Based Payments:****
  
