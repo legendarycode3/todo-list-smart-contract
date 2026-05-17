@@ -5,6 +5,7 @@ A To-Do List smart contract(decentralized), that securely manages tasks on the b
 * It allows users to create tasks, assign unique IDs.
 * It supports toggle completion status.
 * Can retrieve their personal task list without relying on a centralized server or intermediary.
+* And can also delete a To-Do list already existing.
 
 ## 📌 Features
 * ****Immutability:**** Once deployed, the code cannot be altered, ensuring the rules of the to-do list remain constant.
