@@ -110,7 +110,7 @@ Runing specific test:
  * ****Bug Bounty Programs:**** Security researchers get paid once vulnerabilities are verified.
  * ****Gamified Task Systems:**** Completing tasks grants NFTs, tokens, or reputation points.
  * ****Real Estate Project Tracking:**** Monitor legal, financial, and construction milestones.
- * ****IoT Device Task Automation:****
+ * ****IoT Device Task Automation:**** Smart devices execute actions after blockchain-confirmed tasks.
  
  
 ## Foundry
