@@ -109,7 +109,8 @@ Runing specific test:
  * ****Milestone-Based Payments:**** Smart contracts can unlock funds after specific checklist items are completed.
  * ****Bug Bounty Programs:**** Security researchers get paid once vulnerabilities are verified.
  * ****Gamified Task Systems:**** Completing tasks grants NFTs, tokens, or reputation points.
- * ****Real Estate Project Tracking:**** Monitor legal, financial, and construction milestones..
+ * ****Real Estate Project Tracking:**** Monitor legal, financial, and construction milestones.
+ * ****IoT Device Task Automation:****
  
  
 ## Foundry
