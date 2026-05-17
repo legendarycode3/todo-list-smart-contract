@@ -2,6 +2,7 @@
 
 ## Project Overview
 A To-Do List smart contract(decentralized), that securely manages tasks on the blockchain. 
+* It allows users to create tasks, assign unique
 
 ## 📌 Features
 * ****Immutability:**** Once deployed, the code cannot be altered, ensuring the rules of the to-do list remain constant.
