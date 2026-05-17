@@ -103,6 +103,7 @@ Runing specific test:
 
 ### Key Use Cases of ToDO Smart Contracts
  Here are some key usecases for To-Do List Smart Contracts in blockchain (web3)
+ * ****DAO Task Management:****
  
 ## Foundry
 
