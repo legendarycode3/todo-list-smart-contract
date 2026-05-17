@@ -82,6 +82,7 @@ Runing specific test:
  * Use the `toggleCompleted` function:
    * Input an already existing todo task details and not also deleted (just by Id, e.g, 1). It automatically will change the todo task of this Id to true , meaning it  accepts the ID of the task to be toggled.
  * Use the `delete` function:
+   * Input an existing todo list (with it unique identifier which is, Id) , if not deleted previously it will then get deleted.
 ## Why This Matters (TodoList Smart Contract)
  They matter because they demonstrate how to manage data storage, read/write actions, and state changes directly on the blockchain without a central server. 
  This key elements make them matter they include: </br>
