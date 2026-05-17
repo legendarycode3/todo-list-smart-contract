@@ -113,7 +113,7 @@ Runing specific test:
  * ****IoT Device Task Automation:**** Smart devices execute actions after blockchain-confirmed tasks.
  * ****Voting & Governance Action Tracking:**** Ensure governance decisions are executed step-by-step.
  * ****NFT Project Roadmap Tracking:**** Communities verify whether project milestones are delivered.
- * ****Decentralized Reputation Systems:****
+ * ****Decentralized Reputation Systems:**** Completed tasks improve on-chain trust scores.
  
  
 ## Foundry
