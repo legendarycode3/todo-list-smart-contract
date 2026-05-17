@@ -102,7 +102,7 @@ Runing specific test:
  7. ****State Management:**** They adequately show how to manage the state of a task (e.g., TODO, DOING, DONE), ensuring data integrity.
 
 ### Key Use Cases of ToDO Smart Contracts
- 
+ Here are some key usecases for To-Do List Smart Contracts in blockchain (web3)
  
 ## Foundry
 
