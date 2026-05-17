@@ -79,7 +79,8 @@ Runing specific test:
 3. ****Create a Task:****
  * Use the `createTask` function:
    * Input a task name (e.g., "Shopping") and a description ("Go to the mool").
- * Use the `toggleCompleted` function: 
+ * Use the `toggleCompleted` function:
+   * Input an already existing todo task details and not also deleted (just by Id, e.g, 1).
 ## Why This Matters (TodoList Smart Contract)
  They matter because they demonstrate how to manage data storage, read/write actions, and state changes directly on the blockchain without a central server. 
  This key elements make them matter they include: </br>
