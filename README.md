@@ -1,6 +1,7 @@
 # TodoList Smart Contract
 
 ## Project Overview
+A To-Do List smart contract 
 
 ## 📌 Features
 * ****Immutability:**** Once deployed, the code cannot be altered, ensuring the rules of the to-do list remain constant.
